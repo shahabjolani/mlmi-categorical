@@ -18,7 +18,7 @@
 # Note that the variable names and coding schemes (for binary variables) are not unique.   
 
 # Load 'ipdresult.RData' to produce Tables 4 and 5
-load(ipdresult)
+load("ipdresult.RData")
 
 # Table 4
 ipdresult$perc
